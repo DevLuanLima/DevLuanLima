@@ -1,6 +1,6 @@
-## Hi there 👋, my name is Luan Lima, a Mechatronic Engineer with MBA in Machine Learning who's provide to be a Software Developers. 
-🌱 I’m currently learning Software Archetecture to improve my skills and help the company that I've been working. 
-Also I’m doing a new MBA in Project Managment. 
+## Hi there 👋, my name is Luan Lima, a Mechatronic Engineer with MBA in Machine Learning who's provided to be a Software Developer. 
+🌱 I’m currently learning Software Architecture to improve my skills and help the company that I've been working for. 
+Also, I’m doing a new MBA in Project management. 
 
 ### 🚀 Skills
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
